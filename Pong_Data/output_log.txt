@@ -1,0 +1,48 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6658)
+    Vendor:   ATI
+    VRAM:     2025 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\WebGL Game\Pong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.293 seconds
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\WebGL Game\Pong_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 24.076372 ms
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.589402 ms
+Player2BallSpawn
+Player1BallSpawn
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.231248 ms (FindLiveObjects: 0.016934 ms CreateObjectMapping: 0.025402 ms MarkObjects: 0.167888 ms  DeleteObjects: 0.019854 ms)
+
+Ball Ha Collisionado con la Derecha
+Ball Ha Colisionado con la Izquierda
+Ball Ha Colisionado con la Izquierda
+Ball Ha Colisionado con la Izquierda
+Ball Ha Collisionado con la Derecha
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1128 -> priority: 1 
+  Thread -> id: 1e84 -> priority: 1 
